@@ -1,0 +1,56 @@
+"""
+____________________________________________________________________
+____________________________________________________________________
+
+Dear User,
+
+
+First of all you must be sure, that Python3 is installed properly on
+your computer including the package management tool PyPi:
+
+Visit https://www.python.org/ for instructions and further downloads; 
+
+I'm using the following libraries in my final project via import, so
+please make sure they are all installed on your system:
+
+pygame
+
+You can in case install the libraries via pip install command in your
+terminal window, following this command patterns:
+
+CMD: pip install pygame
+
+or for macOS:
+CMD: pip3 install pygame
+
+Also make sure you download the public repository properly via GitHub
+and especially make sure you download the file "project.py" as well
+as the dependency folders "images" and "sounds"!
+
+All of the mentioned above must be in the same directory of your PC.
+
+Depending on your own operating system you first need to compile it;
+
+To start the program in your terminal, please open the folder, which
+contains the program, in your terminal and run one of these commands:
+
+CMD: python project.py
+
+or for macOS:
+CMD: python3 project.py
+
+This command should run a classical game of Pong or so-called RoboPong!
+It's a two-player-game, use the keys W and S for movements of player 1
+and the arrow keys UP and DOWN for movements of player 2.
+
+I hope you have a lot of fun playing this game - like me coding it. :-)
+
+Kindest Regards,
+
+
+Marc-Michel Münch
+
+____________________________________________________________________
+____________________________________________________________________
+
+"""
